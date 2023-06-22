@@ -9,6 +9,8 @@
             "image": "shopify:\/\/shop_images\/syncronyapply.png",
             "title": "",
             "text": "",
+            "link_type": "form_submit",
+            "form_code": "<form name=\"eTailAppForm\" action=\"https:\/\/etail.mysynchrony.com\/eapply\/eapply.action\" method=\"post\"> \n<input type=\"hidden\" name=\"mid\" value=\"5348120770747780\"> \n<input type=\"hidden\" name=\"pcgc\" value=\"NS00\"> \n<input type=\"submit\" value=\"Apply\"> \n<\/form>",
             "link_label": "Syncrony Financial",
             "link": "#panel-12167-0-1-1"
           }
@@ -19,6 +21,8 @@
             "image": "shopify:\/\/shop_images\/americanlogoapply.png",
             "title": "",
             "text": "",
+            "link_type": "button",
+            "form_code": "",
             "link_label": "American First Financial",
             "link": "https:\/\/americanfirstfinance.com\/app\/?dealer=15675&amp;loc=1&amp;src=UA"
           }
@@ -29,6 +33,8 @@
             "image": "shopify:\/\/shop_images\/snaplogo.png",
             "title": "",
             "text": "",
+            "link_type": "button",
+            "form_code": "",
             "link_label": "Snap Financial",
             "link": "https:\/\/consumer.snapfinance.com\/#\/?mig=528982448"
           }
