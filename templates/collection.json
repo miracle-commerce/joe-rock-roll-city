@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19034492895516__c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d-1687032629a9122958-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "On  Sale Today!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19034492895516__c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d-1687032629a9122958-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Financing Options",
+            "button_link": "shopify:\/\/pages\/specials-financing-offers",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19034492895516__c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d-1687032629a9122958-0",
+        "template--19034492895516__c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d-1687032629a9122958-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "c54a7ebe-5d38-4c13-ba5a-3149e85bcd2d",
+    "product-grid"
+  ]
+}

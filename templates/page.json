@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "f00caae1-e888-4971-89ef-fac3ac047ee5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/syncronyapply.png",
+            "title": "",
+            "text": "",
+            "link_label": "Syncrony Financial",
+            "link": "#panel-12167-0-1-1"
+          }
+        },
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/americanlogoapply.png",
+            "title": "",
+            "text": "",
+            "link_label": "American First Financial",
+            "link": "https:\/\/americanfirstfinance.com\/app\/?dealer=15675&amp;loc=1&amp;src=UA"
+          }
+        },
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/snaplogo.png",
+            "title": "",
+            "text": "",
+            "link_label": "Snap Financial",
+            "link": "https:\/\/consumer.snapfinance.com\/#\/?mig=528982448"
+          }
+        }
+      },
+      "block_order": [
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-2",
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-0",
+        "template--19034493059356__f00caae1-e888-4971-89ef-fac3ac047ee5-1686773063e72c2715-1"
+      ],
+      "settings": {
+        "title": "Let's Get You APPROVED!",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "f00caae1-e888-4971-89ef-fac3ac047ee5",
+    "main"
+  ]
+}
